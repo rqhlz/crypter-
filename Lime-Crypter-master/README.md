@@ -23,7 +23,7 @@ To open project you need:
 
 ## Author
 
-* **NYAN CAT** 
+* **NYAN CAT nd rqhlz** 
 
 
 ## Disclaimer
